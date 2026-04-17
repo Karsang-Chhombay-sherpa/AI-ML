@@ -27,3 +27,15 @@ Regression: Linear, Polynomial, and Ridge/Lasso.
 Classification: Logistic Regression, Decision Trees, and Random Forests.
 
 Support Vector Machines (SVM): Linear and non-linear boundaries.
+
+3. Unsupervised Learning
+Clustering: K-Means and Hierarchical clustering.
+
+Dimensionality Reduction: Principal Component Analysis (PCA).
+
+4. Neural Networks & Deep Learning
+The Perceptron: The building block of neural networks.
+
+Backpropagation: How models learn through error correction.
+
+Architectures: CNNs for vision, RNNs/LSTMs for sequences.

@@ -1,2 +1,2 @@
 # AI-ML
-practice ai and ml
+Journer of Ai And ML begins

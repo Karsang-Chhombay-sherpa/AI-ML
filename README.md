@@ -12,3 +12,11 @@ Libraries: NumPy, Pandas, Matplotlib, Scikit-Learn
 Deep Learning: PyTorch / TensorFlow (as I progress)
 
 Environment: Jupyter Notebooks / VS Code
+
+🛤️ Learning Roadmap
+1. Fundamentals of Data
+Data Cleaning: Handling missing values and outliers.
+
+Exploratory Data Analysis (EDA): Visualizing distributions and correlations.
+
+Feature Engineering: Scaling, encoding, and selection.

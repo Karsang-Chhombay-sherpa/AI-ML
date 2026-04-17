@@ -20,3 +20,10 @@ Data Cleaning: Handling missing values and outliers.
 Exploratory Data Analysis (EDA): Visualizing distributions and correlations.
 
 Feature Engineering: Scaling, encoding, and selection.
+
+2. Supervised Learning
+Regression: Linear, Polynomial, and Ridge/Lasso.
+
+Classification: Logistic Regression, Decision Trees, and Random Forests.
+
+Support Vector Machines (SVM): Linear and non-linear boundaries.

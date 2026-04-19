@@ -32,3 +32,7 @@ The Perceptron: The building block of neural networks.
 Backpropagation: How models learn through error correction.
 Architectures: CNNs for vision, RNNs/LSTMs for sequences.
 
+
+
+
+
